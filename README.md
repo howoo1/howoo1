@@ -2,8 +2,11 @@
 - Currently intersted in NLP and going through some basic NLP tasks.
 
 --> Sequence labeling
+
 --> Classification
+
 --> Sentence relationship
+
 --> Natural language generation
 
 ### Open resource
